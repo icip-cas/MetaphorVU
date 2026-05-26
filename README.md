@@ -2,7 +2,7 @@
 
 MetaphorVU: Towards Metaphorical Video Understanding (ICML 2026)
 
-Paper: https://openreview.net/forum?id=yKcBAJMPXZ
+Paper: https://huggingface.co/papers/2605.25461
 
 Dataset: https://huggingface.co/datasets/lzq2021/MetaphorVU-Bench
 
