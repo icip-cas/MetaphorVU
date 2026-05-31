@@ -2,6 +2,8 @@
 
 MetaphorVU: Towards Metaphorical Video Understanding (ICML 2026)
 
+Email: lizhuoqun2021@iscas.ac.cn
+
 Paper: https://huggingface.co/papers/2605.25461
 
 Dataset: https://huggingface.co/datasets/lzq2021/MetaphorVU-Bench
